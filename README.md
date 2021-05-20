@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on Machine Learning Projects/Hackathons/Competition
 - 💬 Ask me about Data Science & Engineering
 - 📫 How to reach me: mrinaal1234@gmail.com
-- ⚡ Fun fact: I rode a bike for 32km in a single day with just 2 gatorade bottle :)
+- ⚡ Fun fact: I have camped at a random place for which me & my group hiked at Night. FYI, the place is 'Watersprite Lake'
 
