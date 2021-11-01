@@ -13,7 +13,7 @@
 Companies I am interested in working (no particular Order):
 I update this list every quarter based on my interests :)
 
-| Rank| Company | Sector |
+| S.No| Company | Sector |
 |------|-------|---------|
 | 1 | Google | Tech |
 | 2 | Facebook | Tech |
