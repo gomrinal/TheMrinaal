@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I have camped at a random place for which me & my group hiked at Night. FYI, the place is 'Watersprite Lake'
 - Roles: Product Management, Data Scientist, Machine Learning Engineer, Data Engineer
 
-Companies I am interested in working no particular Order:
+Companies I am interested in working (no particular Order):
 I update this list every quarter based on my interests :)
 
 | Rank| Company | Sector |
