@@ -8,8 +8,11 @@
 - 💬 Ask me about Data Science & Engineering
 - 📫 How to reach me: email.mrinal.here@gmail.com
 - ⚡ Fun fact: I have camped at a random place for which me & my group hiked at Night. FYI, the place is 'Watersprite Lake'
+- Roles: Product Management, Data Scientist, Machine Learning Engineer, Data Engineer
 
-Companies I am interested in no particular Order:
+Companies I am interested in working no particular Order:
+I update this list every quarter based on my interests :)
+
 | Rank| Company | Sector |
 |------|-------|---------|
 | 1 | Google | Tech |
@@ -56,5 +59,5 @@ Companies I am interested in no particular Order:
 | 42 | Nvidia | 	Tech |																							
 | 43 | Expedia | 	Tech |																							
 | 44 | Zillow | 	Tech |																								
-| 45 | Electronic Arts |	Tech |	
+| 45 | Instacart |	Tech |	
 
